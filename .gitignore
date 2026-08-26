@@ -1,0 +1,54 @@
+# ---- Model weights & checkpoints (never commit — GitHub rejects >100MB) ----
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.h5
+*.onnx
+
+# ---- HuggingFace / torch caches ----
+.cache/
+cache/
+huggingface/
+transformers_cache/
+~/.cache/
+
+# ---- Secrets (HF_TOKEN, OpenAI keys, etc.) ----
+.env
+.env.*
+*.key
+secrets.json
+credentials.json
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+venv/
+env/
+.venv/
+
+# ---- Large or raw data (keep word lists & templates, ignore bulk corpora) ----
+data/raw/
+data/**/*.csv
+data/**/*.jsonl
+data/**/*.zip
+!data/wordlists/**
+!data/templates/**
+!data/.gitkeep
+
+# ---- Results: keep CSV/figures, ignore scratch ----
+results/scratch/
+results/tmp/
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Editor ----
+.vscode/
+.idea/
+*.swp
