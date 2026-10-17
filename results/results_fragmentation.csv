@@ -1,0 +1,9 @@
+model,vocab,mean_tokens_all,mean_tokens_single,mean_tokens_multi,pct_single_intact
+banglabert,32000,1.69,1.46,2.92,65.9
+banglishbert,32000,1.97,1.72,3.29,51.0
+bangla-bert-base,101975,2.69,2.27,4.92,35.6
+kowsher-bangla,101975,2.69,2.27,4.92,35.6
+sahajbert,32000,1.85,1.63,3.03,62.0
+mbert,119547,4.7,4.01,8.43,7.2
+muril,197258,1.98,1.77,3.1,51.2
+xlm-r,250002,3.36,2.95,5.55,15.4
