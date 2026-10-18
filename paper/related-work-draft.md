@@ -1,12 +1,5 @@
 # Related Work — Draft
 
-**Status:** scaffold for Akhila to polish. ~1,350 words; a 4-page SRW
-short paper needs roughly 600–800, so expect to cut Sections 2.1 and 2.2
-hardest.
-
-**Before sending:** read the "What you must verify yourself" section at
-the bottom. Do not send this until you can defend every claim in it.
-
 ## 2 Related Work
 
 ### 2.1 Measuring bias inside the model
@@ -234,16 +227,4 @@ write the sentence without attributing those metrics to specific papers.
 The arXiv 2411.10636 citation is a placeholder. Get the author names
 from the PDF and check whether it has since appeared at a venue.
 
-### How to use this
 
-**Rewrite every paragraph in your own words before sending.** Not
-because of plagiarism — this summarises public literature — but because
-you have to own the argument. Akhila already told you not to copy-paste,
-and if she or your supervisor asks you to explain a sentence you cannot
-explain, that costs you more than submitting nothing.
-
-**Tell Akhila honestly what state this is in.** Something like: *"Ei ta
-first draft, ami je paper gula porechi oigula theke likhechi. Koyekta
-claim ekhono verify kora baki, oigula mark kore rekhechi."* Being
-upfront about what is unverified is what a researcher does, and she will
-trust the next draft more.
