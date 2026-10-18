@@ -157,8 +157,7 @@ absent from the vocabularies of the models tested, which complicates
 measurement and may amplify measured bias, although they do not quantify
 this effect.
 
-Extrinsic work in Bangla is limited to a single study. \[CITATION: arXiv
-2411.10636\] construct counterfactual test sets for four classification
+Extrinsic work in Bangla is limited to a single study. Joy et al. (2024) construct counterfactual test sets for four classification
 tasks using a hand-built lexicon of 573 Bangla gendered word pairs
 together with named entity substitution, define bias as the proportion
 of predictions that change under swapping, and report rates between 0.46
